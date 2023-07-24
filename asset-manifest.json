@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FTI-Amazonsales-Record/static/css/main.a39cf1eb.css",
-    "main.js": "/FTI-Amazonsales-Record/static/js/main.3e6f7dad.js",
+    "main.js": "/FTI-Amazonsales-Record/static/js/main.51b0ed0a.js",
     "static/js/787.c1d44632.chunk.js": "/FTI-Amazonsales-Record/static/js/787.c1d44632.chunk.js",
     "index.html": "/FTI-Amazonsales-Record/index.html",
     "main.a39cf1eb.css.map": "/FTI-Amazonsales-Record/static/css/main.a39cf1eb.css.map",
-    "main.3e6f7dad.js.map": "/FTI-Amazonsales-Record/static/js/main.3e6f7dad.js.map",
+    "main.51b0ed0a.js.map": "/FTI-Amazonsales-Record/static/js/main.51b0ed0a.js.map",
     "787.c1d44632.chunk.js.map": "/FTI-Amazonsales-Record/static/js/787.c1d44632.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a39cf1eb.css",
-    "static/js/main.3e6f7dad.js"
+    "static/js/main.51b0ed0a.js"
   ]
 }
